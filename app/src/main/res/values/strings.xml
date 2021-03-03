@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RickMortyProject</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_data_available">Данные отсутствуют</string>
+    <string name="character_name">Имя:</string>
+    <string name="character_status">Статус:</string>
+    <string name="character_species">Вид:</string>
+    <string name="character_type">Тип:</string>
+    <string name="character_gender">Пол:</string>
+    <string name="character_edisode">Список серий с участием персонажа:</string>
+    <string name="character_created">Дата создания персонажа:</string>
+</resources>
